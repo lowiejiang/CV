@@ -12,12 +12,12 @@ Analytics, Business Process Consultant
 
 ## Education
 
-`2013-2017`
+`2013 - 2017`
 __University of British Columbia__
 
 - BASc Chemical Engineering with Distinction
 
-`2019-In Progress`
+`2019 - In Progress`
 __University of Waterloo__
 
 - Data Science Advanced Certification
@@ -49,10 +49,10 @@ Broadsword Corrosion Ltd., Calgary
 `2020 - Present`
 **Alumni Mentor**, [UBC Engineering](https://engineering.ubc.ca/research-industry/mentoring-program)
 
-`2019-2020`
+`2019 - 2020`
 **Admissions Evaluator**, [UBC Undergraduate Admissions](https://www.alumni.ubc.ca/volunteer-and-donate/broad-based-admissions-alumni-reader/)
 
-`2017-2018`
+`2017 - 2018`
 **Logistics Director**, [Innovation Onboard](https://www.facebook.com/InnovationOnBoard/)
 
 ## Projects/Activities
@@ -71,7 +71,7 @@ Broadsword Corrosion Ltd., Calgary
 `2018`
 **Dr. A. Paul Watkinson Design Award**, Awarded to final year Capstone project that best demonstrates engineering design in sustainability. My Capstone project proposed a solution to create biofuel from waste woodchips.
 
-`2014-2018`
+`2014 - 2018`
 **[Dean's Honor List](http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,195,272,29)**
 
 ### Notes
