@@ -1,91 +1,81 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Laurie's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Laurie Jiang
+Analytics, Business Process Consultant
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:lauriejiang@alumni.ubc.ca">lauriejiang@alumni.ubc.ca</a>
+| <a href="https://www.lauriej.ca">Webpage</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2013-2017`
+__University of British Columbia__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- BASc Chemical Engineering with Distinction
 
-- Sizar
+`2019-In Progress`
+__University of Waterloo__
 
-`1667 - death`
-__Trinity College, Cambridge__
+-Data Science Advanced Certification
 
-- Fellow
+`2020`
+__BrainStation__
 
+-Product Management Certification
+
+## Employment
+
+`Apr 2019 - Present`
+__Process Manager__
+Capital One Canada, Toronto
+
+`Aug 2018 - Mar 2019`
+__Business Technology Analyst (Enterprise Systems)__
+Deloitte Canada, Toronto/Ottawa
+
+`Sept 2016 - Sept 2017`
+__Chemical Engineering Intern (Strategic Technologies)__
+Suncor, Calgary
+
+`Jan 2016 - Aug 2016`
+__Corrosion Technician (Intern)__
+Broadsword Corrosion Ltd., Calgary
+
+## Leadership
+`2020 - Present`
+**Alumni Mentor**, [UBC Engineering](https://engineering.ubc.ca/research-industry/mentoring-program)
+
+`2019-2020`
+**Admissions Evaluator**, [UBC Undergraduate Admissions](https://www.alumni.ubc.ca/volunteer-and-donate/broad-based-admissions-alumni-reader/)
+
+`2017-2018`
+**Logistics Director**, [Innovation Onboard](https://www.facebook.com/InnovationOnBoard/)
+
+## Projects/Activities
+`2018`
+**[BioSynergy](http://chbe.sites.olt.ubc.ca/files/2018/05/P1-Capstone-Poster.pdf)**, design of a Biosyn natural gas production plant. UBC chemical engineering final year capstone project in a team of 7.
+
+`2017-2018`
+**Canadian Engineering Competition Finalist**, [Re-Engineering](https://engineering.ubc.ca/news/2018/02/apsc-students-win-big-at-2018-western-engineering-competition)
+
+`2017-2018`
+**Undergraduate Thesis**, [Frostad Research Group](https://food.chbe.ubc.ca/people2/)
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2018`
+**Dr. A. Paul Watkinson Design Award**, Awarded to final year Capstone project that best demonstrates engineering design in sustainability. My Capstone project proposed a solution to create biofuel from waste woodchips.
 
-Associate, *French Academy of Science*, Paris, France
+`2014-2018`
+**[Dean's Honor List](http://www.calendar.ubc.ca/vancouver/index.cfm?tree=12,195,272,29)**
 
+### Notes
 
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+Last updated: Nov 2020
 
 
