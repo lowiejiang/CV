@@ -20,12 +20,12 @@ __University of British Columbia__
 `2019-In Progress`
 __University of Waterloo__
 
--Data Science Advanced Certification
+- Data Science Advanced Certification
 
 `2020`
 __BrainStation__
 
--Product Management Certification
+- Product Management Certification
 
 ## Employment
 
